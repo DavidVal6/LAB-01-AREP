@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÀæœúÿÿÿÿ8äŒÃô 1
+
+java:S1149!"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8›úØà 1
+
+java:S1149<"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8øÌàà 1
+H
+java:S3010"&Remove this assignment of "movieName".(¨¤±óıÿÿÿÿ8­•Šà 1
+M
+java:S1874"+Remove this use of "URL"; it is deprecated.(Ÿ²ªÂúÿÿÿÿ8°•Šà 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä¦Éúúÿÿÿÿ8²•Šà 1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(õÂÂ¥8µ•Šà 1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ºçáå8¶•Šà 1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(’Š›½8¶•Šà 1
+M
+java:S18743"+Remove this use of "URL"; it is deprecated.(Ÿ²ªÂúÿÿÿÿ8¸•Šà 1
+s
+java:S1858j"Q"responseString" is already a string, there's no need to call "toString()" on it.(ßÈÍ–ûÿÿÿÿ8¥ğáà 1

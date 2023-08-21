@@ -5,10 +5,10 @@ En este laboratorio se baso en la contruccion de un servidor http de tipo fachad
 ## Empezando
 
 ### Directorios
-En este proyecto se encontrara dos directorios principales uno llamado [classwork](src/main/java/org/example/classwork/) y otro llamado [Server](src/main/java/org/example/Server/), para este laboratorio se requiere nada mas ejecutar el archivo HTTPServer que se encuentra dentro del directorio Server, es decir la carpeta classwork no es necesaria sin embargo al haber sido hecha como trabajo en clase se dejara por temas de estudio.
+En este proyecto se encontrara dos directorios principales uno llamado [classwork](/Proyect1/src/main/java/org/example/classwork/) y otro llamado [Server](Proyect1/src/main/java/org/example/Server/), para este laboratorio se requiere nada mas ejecutar el archivo HTTPServer que se encuentra dentro del directorio Server, es decir la carpeta classwork no es necesaria sin embargo al haber sido hecha como trabajo en clase se dejara por temas de estudio.
 
 ### Documentacion
-La documentación de este proyecto se encuentra en el directorio [doc](doc/)
+La documentación de este proyecto se encuentra en el directorio [doc](Proyect1/doc/)
 
 ## En Funcionamiento
 ### ¿Como funciona?
