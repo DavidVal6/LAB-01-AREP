@@ -1,2 +1,7 @@
+org\example\Movie.class
+org\example\HTTPApiConection.class
+org\example\EchoClient.class
+org\example\HttpServer.class
 org\example\UrlCatcher.class
+org\example\EchoServer.class
 org\example\URLReader.class
